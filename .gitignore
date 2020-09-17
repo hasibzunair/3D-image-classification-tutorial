@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Custom
+NSCLC-Radiomics-Genomics/
+
+
 # Distribution / packaging
 .Python
 build/
