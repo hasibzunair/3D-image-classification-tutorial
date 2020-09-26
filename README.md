@@ -2,10 +2,9 @@
 
 I am still working on this. Follow along if you're interested!
 
-
 ### Dataset
 
-[NSCLC-Radiomics-Genomics](https://academictorrents.com/details/95b58ebfc1952780cfe2102dd7290889feefad66) which consists of CT scans with gene expression and relevant clinical data.
+[MosMedData: Chest CT Scans with COVID-19 Related Findings](https://www.medrxiv.org/content/10.1101/2020.05.20.20100362v1)
 
 ### Usage
 
