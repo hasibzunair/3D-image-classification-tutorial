@@ -1,10 +1,8 @@
-### A tutorial on 3D image classification
-
-I am still working on this. Follow along if you're interested!
+# A tutorial notebook on 3D image classification
 
 ### Dataset
 
-[MosMedData: Chest CT Scans with COVID-19 Related Findings](https://www.medrxiv.org/content/10.1101/2020.05.20.20100362v1)
+I used a subset of the dataset by [MosMedData: Chest CT Scans with COVID-19 Related Findings](https://www.medrxiv.org/content/10.1101/2020.05.20.20100362v1) which consists of 200 3D CT scans in total for the two classes. 
 
 ### Usage
 
