@@ -6,7 +6,7 @@ Train a 3D convolutional neural network to predict presence of pneumonia.
 
 ## Dataset
 
-I used a subset of the dataset by [MosMedData: Chest CT Scans with COVID-19 Related Findings](https://www.medrxiv.org/content/10.1101/2020.05.20.20100362v1) which consists of 200 3D CT scans in total for the two classes. 
+I used a subset of the dataset by [MosMedData: Chest CT Scans with COVID-19 Related Findings](https://www.medrxiv.org/content/10.1101/2020.05.20.20100362v1) which consists of 200 3D CT scans in total for the two classes. More detail [here](https://github.com/hasibzunair/3D-image-classification-tutorial/releases/tag/v0.2).
 
 ## What is it about?
 
