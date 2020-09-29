@@ -1,4 +1,4 @@
-## The [notebook](https://keras.io/examples/vision/3D_image_classification/) is now available at the Keras documentation!
+## The [notebook](https://keras.io/examples/vision/3D_image_classification/) is now available in the Keras documentation!
 
 # A tutorial notebook on 3D image classification
 
